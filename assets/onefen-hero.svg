@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img">
+<title>一分机场品牌纸雕插画</title>
+<desc>纸飞机与一枚无字硬币，表达轻装出发。 原创可编辑矢量图，无外部素材。</desc>
+<defs>
+  <linearGradient id="onefen-paper" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#ffffff"/><stop offset=".6" stop-color="#f7f9f8"/><stop offset="1" stop-color="#e5ebe7"/></linearGradient>
+  <linearGradient id="onefen-accent" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#93b6ac"/><stop offset="1" stop-color="#2b6f5c"/></linearGradient>
+  <linearGradient id="onefen-accentSoft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e6eeeb"/><stop offset=".5" stop-color="#cadbd6"/><stop offset="1" stop-color="#91b4aa"/></linearGradient>
+  <linearGradient id="onefen-leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#abb79a"/><stop offset="1" stop-color="#5f785b"/></linearGradient>
+  <linearGradient id="onefen-ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536058"/><stop offset=".6" stop-color="#303c35"/><stop offset="1" stop-color="#19231d"/></linearGradient>
+  <filter id="onefen-shadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#35443c" flood-opacity=".12"/></filter>
+  <filter id="onefen-smallshadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#35443c" flood-opacity=".1"/></filter>
+  <filter id="onefen-blur" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="600" fill="#fff"/>
+<ellipse cx="398" cy="528" rx="229" ry="17" fill="#273933" opacity=".075" filter="url(#onefen-blur)"/>
+<path d="M139 299c0-75 66-147 165-164 61-10 113-2 159 24" fill="none" stroke="#d5e2dc" stroke-width="2.5" stroke-dasharray="5 10" stroke-linecap="round"/>
+<g transform="translate(294 427) rotate(-24)" filter="url(#onefen-shadow)">
+  <path d="M-118-14v21c0 43 53 78 118 78S118 50 118 7v-21Z" fill="url(#onefen-accentSoft)"/>
+  <ellipse cy="-14" rx="118" ry="78" fill="url(#onefen-paper)" stroke="#cdded4" stroke-width="2"/>
+  <ellipse cy="-14" rx="95" ry="59" fill="none" stroke="#d5e1db" stroke-width="3"/>
+  <path d="M-85-42c18-27 68-37 106-29" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g filter="url(#onefen-shadow)">
+  <path d="m229 238 428-135-121 302-85-111-85 103 2-143Z" fill="url(#onefen-paper)" stroke="#d7e2dc" stroke-width="1.5"/>
+  <path d="m368 254 289-151-206 191-85 103Z" fill="url(#onefen-accentSoft)"/>
+  <path d="m451 294 206-191-121 302Z" fill="#f8fcfa"/>
+  <path d="m368 254 289-151-269 174-22 120Z" fill="url(#onefen-accent)"/>
+  <path d="m229 238 139 16 289-151Z" fill="#fff"/>
+</g>
+<path d="m603 465 25-19 21 27-25 18Z" fill="url(#onefen-accentSoft)"/>
+<path d="M528 476c14-21 35-29 56-23-5 28-29 39-56 23Z" fill="url(#onefen-paper)" stroke="#e0e7e2"/>
+
+</svg>

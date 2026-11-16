@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onefen.com.cn/sitemap.xml
